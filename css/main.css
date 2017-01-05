@@ -1,0 +1,215 @@
+.nav{
+
+  background-color:#eee;
+
+}
+
+.nav a {
+
+  color: #5a5a5a;
+
+  font-family: 'Open Sans Condensed', sans-serif;
+
+  font-size: 24px;
+
+  font-weight: bold;
+
+  padding: 0px 20px;
+
+  text-transform: uppercase;
+
+}
+
+.nav li {
+
+  display: inline;
+
+}
+
+
+
+.jumbotron {
+
+  color:#fff;
+
+  background-image:url('../img/maspc_logo.jpg');
+
+  height: 450px;
+
+  background-repeat: no-repeat;
+
+  background-size: 714px, 356px;
+
+  background-position: center;
+
+  background-color: #fff;
+
+}
+
+.jumbotron .container {
+
+  position: center;
+
+  top:100px;
+
+}
+
+
+
+.learn-more {
+
+  font-family: 'Helvetica Neue', sans-serif;
+
+  background-color: #fff;
+
+}
+
+.learn-more h3 {
+
+  font-size: 26px;
+
+  font-weight: bold;
+
+}
+
+.learn-more a {
+
+  color: #00b0ff;
+
+}
+
+
+
+.introduction h3{
+
+    font-family: 'Helvetica Neue', sans-serif;
+
+    text-align: center;    
+
+    background-color:#fff;
+
+    font-size: 26px;
+
+}
+
+
+
+.introduction p {
+
+    font-family: 'Helvetica Neue', sans-serif;
+
+    text-align: left;    
+
+    background-color:#fff;
+
+    font-size: 18px;
+
+    padding-top: 10px;
+
+}
+
+
+
+.introduction a{
+
+    font-family: 'Helvetica Neue', sans-serif;
+
+    text-align: center;    
+
+    background-color:#fff;
+
+    font-size: 26px;
+
+}
+
+
+
+
+
+.bio{
+
+    font-family: 'Helvetica Neue', sans-serif;
+
+    text-align: center;
+
+    font-size: 26px;
+
+    padding-bottom:100px;
+
+}
+
+.large-img{
+
+  background-image:url("http://i.imgur.com/67ECaY0.png"); 
+
+  background-size: contain;
+
+  background-color:#453;
+
+}
+
+
+
+.address{
+
+  font-weight: bold;
+
+}
+
+
+
+.awards{
+
+  padding-bottom:100px;
+
+}
+
+
+
+.awards {
+
+  font-family: 'Helvetica Neue', sans-serif;
+
+  text-align: center;
+
+  font-size: 26px;
+
+  padding-bottom: 100px;
+
+
+
+}
+
+
+
+
+
+.contact2 h3 {
+
+  font-family: 'Helvetica Neue', sans-serif;
+
+  text-align: center;
+
+  font-size: 32px;
+
+}
+
+
+
+.contact2 p {
+
+  font-family: 'Helvetica Neue', sans-serif;
+
+  text-align: center;
+
+  font-size: 26px;
+
+}
+
+.col-centered {
+
+    float: none;
+
+    margin: 0 auto;
+
+}
